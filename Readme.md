@@ -4,33 +4,6 @@
 [](toc)
 - [01. Operações: Impressão formatada](#01-operações-impressão-formatada)
 - [02. Operações: Biblioteca Math](#02-operações-biblioteca-math)
-- [03. Seleção: Manipulação](#03-seleção-manipulação)
-- [04. Selação: Biblioteca Math](#04-selação-biblioteca-math)
-- [05. Seleção: Lógica](#05-seleção-lógica)
-- [06. Seleção: Operador de módulo](#06-seleção-operador-de-módulo)
-- [07. Seleção: Intervalos](#07-seleção-intervalos)
-- [08. Seleção: Busca e Contagem](#08-seleção-busca-e-contagem)
-- [09. Seleção: Conversão](#09-seleção-conversão)
-- [10. Laço: Básico](#10-laço-básico)
-- [11. Técnicas de controle](#11-técnicas-de-controle)
-- [12. Laço: Math](#12-laço-math)
-- [13. Vetores: Busca](#13-vetores-busca)
-- [14. Vetores: Contagem](#14-vetores-contagem)
-- [15. Vetores: Conversão](#15-vetores-conversão)
-- [16. Vetores: Manipulação](#16-vetores-manipulação)
-- [17. Vetores: Proximidade](#17-vetores-proximidade)
-- [18. Vetores: Ordenação](#18-vetores-ordenação)
-- [19. Vetores: Lógica](#19-vetores-lógica)
-- [20. Vetores: Math](#20-vetores-math)
-- [21. Strings I](#21-strings-i)
-- [22. Strings II](#22-strings-ii)
-- [23. Strings III](#23-strings-iii)
-- [24. Strings IV](#24-strings-iv)
-- [25. Matrizes I](#25-matrizes-i)
-- [26. Matrizes II](#26-matrizes-ii)
-- [27. Ponteiros](#27-ponteiros)
-- [28. Recursão](#28-recursão)
-- [29. Structs](#29-structs)
 [](toc)
 
 ```
@@ -51,19 +24,19 @@ Conteúdo sugeridos
 \________________________ | \_______________________________________________
 ------------------------- | -----------------------
 ![](base/000/.cache/thumb.jpg) | [@000 L1 - Operações básicas](base/000/Readme.md)
-![](base/011/.cache/thumb.jpg) | [@010 L2 - Formatando data](base/011/Readme.md)
+![](base/010/.cache/thumb.jpg) | [@010 L3 - Bolinhas viciadas](base/010/Readme.md)
 ![](base/011/.cache/thumb.jpg) | [@011 L2 - Formatando data](base/011/Readme.md)
 
 
 ## 02. Operações: Biblioteca Math
 \________________________ | \_______________________________________________
 ------------------------- | -----------------------
-![](base/011/.cache/thumb.jpg) | [@012 L2 - Formatando data](base/011/Readme.md)
-![](base/011/.cache/thumb.jpg) | [@013 L2 - Formatando data](base/011/Readme.md)
-![](base/011/.cache/thumb.jpg) | [@014 L2 - Formatando data](base/011/Readme.md)
-![](base/011/.cache/thumb.jpg) | [@015 L2 - Formatando data](base/011/Readme.md)
-![](base/011/.cache/thumb.jpg) | [@016 L2 - Formatando data](base/011/Readme.md)
-![](base/011/.cache/thumb.jpg) | [@017 L2 - Formatando data](base/011/Readme.md)
-![](base/011/.cache/thumb.jpg) | [@018 L2 - Formatando data](base/011/Readme.md)
-![](base/011/.cache/thumb.jpg) | [@019 L2 - Formatando data](base/011/Readme.md)
+![](base/012/.cache/thumb.jpg) | [@012 L2 - Deu a louca no Imperador!](base/012/Readme.md)
+![](base/013/.cache/thumb.jpg) | [@013 L1 - Sapatos para 3](base/013/Readme.md)
+![](base/014/.cache/thumb.jpg) | [@014 L1 - Quantos são iguais?](base/014/Readme.md)
+![](base/015/.cache/thumb.jpg) | [@015 L1 - Calculadora Numérica 💎](base/015/Readme.md)
+![](base/016/.cache/thumb.jpg) | [@016 L2 - Volta de 360 graus - Retirando os loops](base/016/Readme.md)
+![](base/017/.cache/thumb.jpg) | [@017 L2 - Maior ovo](base/017/Readme.md)
+![](base/018/.cache/thumb.jpg) | [@018 L2 - Arredondar](base/018/Readme.md)
+![](base/019/.cache/thumb.jpg) | [@019 L2 - Game 10 - OBI 2017 - Fase 1 - Universitário](base/019/Readme.md)
 
